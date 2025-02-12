@@ -2,7 +2,7 @@
 
 ## Objective
 
- This project involoved creating three virtual machines to simulate different network configurations. My task involved configuring these virtual machines according to specified requirements and ensuring proper networking between them, while considering security implications.
+ This project involved creating three virtual machines to simulate different network configurations. My task involved configuring these virtual machines according to specified requirements and ensuring proper networking between them, while considering security implications.
  
 ### Skills Learned
 
